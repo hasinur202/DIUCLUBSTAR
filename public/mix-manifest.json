@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js?id=a54c32f8de5c53f08e20",
+    "/css/app.css": "/css/app.css?id=ac1f993ce03467eff8db",
+    "/back_home.js": "/back_home.js?id=5a3a1db3e2ba7c7ba73f",
+    "/back_login.js": "/back_login.js?id=736696e6908e4c0d74f9",
+    "/back_register.js": "/back_register.js?id=2b0b6f2cb7c976daaee4",
+    "/basic_info.js": "/basic_info.js?id=a455fd08d08dd0db43d6",
+    "/batch.js": "/batch.js?id=59cca62d3e1e74aa7cd2",
+    "/club.js": "/club.js?id=0fc507085347fc1e1e4c",
+    "/front_login.js": "/front_login.js?id=b17edcb092a211791a06",
+    "/front_register.js": "/front_register.js?id=43019489ad88eb41ff95",
+    "/master.js": "/master.js?id=d08be0cb1f16b58a3ebf",
+    "/messanger.js": "/messanger.js?id=110ccb86e29ba67702d2",
+    "/profileImage.js": "/profileImage.js?id=954c1aa8f4d266ba4412",
+    "/timeline.js": "/timeline.js?id=007af4371b4bc800099d",
+    "/vendors~back_login~front_login.js": "/vendors~back_login~front_login.js?id=156bb680f18c766f1fb7"
+}
